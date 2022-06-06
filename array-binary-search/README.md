@@ -18,5 +18,5 @@ cut the list in half according to the value of the mid, if the number is bigger 
 cut the right.
 
 As for the **Big O space/time complexity**:
-- **Time complexity** ==> Best Case = O(n), Worst Case = O(n^2)
+- **Time complexity** ==> Best Case = O(1), Worst Case = O(log(n))
 - **Space complexity** ==> Best and Worst Case = O(1)
