@@ -9,4 +9,5 @@
 | Array-binary-search    | [link](./array-binary-search/README.md)  |
 | Linked-list            | [link](linked_list/README.md)            | 
 | Linked-list-insertions | [link](linked_list_insertions/README.md) | 
+| Linked-list-kth        | [link](linked_list_kth/README.md)        |
 
