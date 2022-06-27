@@ -12,4 +12,5 @@
 | Linked-list-kth        | [link](linked_list_kth/README.md)        |
 | Linked-list-zip        | [link](linked_list_zip/README.md)        |
 | Stack-and-Queue        | [link](stack_and_queue/README.md)        |
+| Stack-Queue-Pseudo     | [link](stack_queue_pseudo/README.md)     |
 
