@@ -22,6 +22,10 @@
 <!-- Embedded whiteboard image -->
 ![white board pic](./img/stack_queue_pseudo.jpg)
 
+#### Updated Pseudo Code:
+
+<img src="./img/updated_pseudo_code.jpg" style="width:350px;"/>
+
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
 The approach was to utilize the methods that are included in the Stack class, and go for a liner iterative approach when needed.
