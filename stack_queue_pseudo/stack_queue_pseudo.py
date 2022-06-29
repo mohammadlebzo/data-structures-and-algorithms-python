@@ -52,9 +52,11 @@ class PseudoQueue:
             self.stack_main.pop()
         while self.stack_main.top:
             self.stack_helper.push(self.stack_main.pop())
-        self.stack_helper.pop()
+        popped_data = self.stack_helper.pop()
         while self.stack_helper.top:
             self.stack_main.push(self.stack_helper.pop())
+
+        return popped_data
 
     def __str__(self):
         item = ''
@@ -76,9 +78,9 @@ if __name__ == "__main__":
     pseudo_queue.enqueue(5)
     print(pseudo_queue)
     print('-------------dequeuing----------------')
-    pseudo_queue.dequeue()
+    print(pseudo_queue.dequeue())
     print(pseudo_queue)
-    pseudo_queue.dequeue()
+    print(pseudo_queue.dequeue())
     print(pseudo_queue)
     print('--------------------------------------')
 
