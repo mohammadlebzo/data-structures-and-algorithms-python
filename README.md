@@ -15,4 +15,5 @@
 | Stack-Queue-Pseudo         | [link](stack_queue_pseudo/README.md)         |
 | Stack-Queue-Animal-Shelter | [link](stack_queue_animal_shelter/README.md) |
 | Stack-Queue-Brackets       | [link](stack_queue_brackets/README.md)       |
+| Trees                      | [link](trees/README.md)                      |
 
