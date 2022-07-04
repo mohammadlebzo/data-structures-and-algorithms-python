@@ -108,7 +108,7 @@ class BinarySearchTree(BinaryTree):
                     _walk(root.left)
                 else:
                     root.left = TreeNode(value)
-            if value > root.value:
+            if value >= root.value:
                 if root.right:
                     _walk(root.right)
                 else:
