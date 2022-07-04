@@ -11,19 +11,20 @@ class Stack:
         self.top = None
 
     def push(self, value):
+        """
+        Adds a new node to the stack as the top.
+        :param value: value to add
+        :return: nothing
+        """
         node = Node(value)
         node.next = self.top
         self.top = node
 
-    def pop(self):
-        if not self.top:
-            raise EmptyStackException("Pop from empty stack is not allowed")
-        temp = self.top
-        self.top = self.top.next
-        temp.next = None
-        return temp.value
-
     def __str__(self):
+        """
+        Formatting the stack
+        :return: string
+        """
         current = self.top
         items = ''
 
@@ -46,6 +47,10 @@ class BinaryTree:
         self.root = None
 
     def pre_order(self):
+        """
+        Returns the tree nodes in the following order: root >> left >> right
+        :return: string
+        """
         output = Stack()
         if not self.root:
             return self.root
@@ -63,6 +68,10 @@ class BinaryTree:
         return str(output)
 
     def in_order(self):
+        """
+        Returns the tree nodes in the following order: left >> root >> right
+        :return: string
+        """
         output = Stack()
         if not self.root:
             return self.root
@@ -81,6 +90,10 @@ class BinaryTree:
         return str(output)
 
     def post_order(self):
+        """
+        Returns the tree nodes in the following order: left >> right >> root
+        :return: string
+        """
         output = Stack()
         if not self.root:
             return self.root
@@ -100,8 +113,14 @@ class BinaryTree:
 class BinarySearchTree(BinaryTree):
 
     def add(self, value):
+        """
+        Adds a new tree node, by looking if the value is more or less than the root, if less go left, if more go right.
+        :param value: value to add
+        :return: Nothing
+        """
         if not self.root:
             self.root = TreeNode(value)
+            return
         def _walk(root):
             if value < root.value:
                 if root.left:
@@ -113,9 +132,16 @@ class BinarySearchTree(BinaryTree):
                     _walk(root.right)
                 else:
                     root.right = TreeNode(value)
+            if value == root.value:
+                root.right = TreeNode(value)
         _walk(self.root)
 
     def contains(self, value):
+        """
+        Checks if a value is included in the tree, if yes return true, if no return false.
+        :param value: Value to search for
+        :return: Boolean
+        """
         if not self.root:
             return False
         if self.root.value == value:
