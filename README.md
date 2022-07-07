@@ -18,4 +18,5 @@
 | Trees                      | [link](trees/README.md)                      |
 | Tree-Max                   | [link](tree_max/README.md)                   |
 | Tree_Breadth_First         | [link](tree_breadth_first/README.md)         |
+| Tree-Fizz-Buzz             | [link](tree_fizz_buzz/README.md)             |
 
