@@ -27,7 +27,7 @@ After that write tests that include:
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![White board pic](./img/linked_list_insertions.jpg)
+![White board pic](img/linked_list_insertions.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->

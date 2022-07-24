@@ -8,7 +8,7 @@
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![white board pic](./img/tree_max.jpg)
+![white board pic](img/tree_max.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->

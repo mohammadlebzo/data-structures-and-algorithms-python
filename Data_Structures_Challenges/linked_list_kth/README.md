@@ -16,7 +16,7 @@ Write tests for the following scenarios:
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![white board pic](./img/linked_list_kth.jpg)
+![white board pic](img/linked_list_kth.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->

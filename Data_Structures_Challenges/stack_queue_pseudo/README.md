@@ -20,7 +20,7 @@
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![white board pic](./img/stack_queue_pseudo.jpg)
+![white board pic](img/stack_queue_pseudo.jpg)
 
 #### Updated Pseudo Code:
 
