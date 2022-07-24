@@ -1,5 +1,5 @@
 import pytest
-from linked_list_zip.linked_list_zip import LinkedList, zip_lists
+from Data_Structures_Challenges.linked_list_zip.linked_list_zip import LinkedList, zip_lists
 
 def test_the_zipping_of_two_equal_in_size_linked_lists(l_list1, l_list2):
     assert zip_lists(l_list1, l_list2) == "{1} -> {5} -> {3} -> {9} -> {2} -> {4} -> null"

@@ -1,5 +1,5 @@
 import pytest
-from tree_max.tree_max import BinaryTree, TreeNode
+from Data_Structures_Challenges.tree_max.tree_max import BinaryTree, TreeNode
 
 def test_get_max_from_an_empty_tree(b_tree):
     assert b_tree.get_max() == 0

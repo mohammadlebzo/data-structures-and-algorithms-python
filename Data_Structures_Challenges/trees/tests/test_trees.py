@@ -1,5 +1,5 @@
 import pytest
-from trees.trees import BinaryTree, BinarySearchTree, TreeNode
+from Data_Structures_Challenges.trees.trees import BinaryTree, BinarySearchTree, TreeNode
 
 def test_instantiation_of_empty_tree():
     b_tree_empty = BinaryTree()

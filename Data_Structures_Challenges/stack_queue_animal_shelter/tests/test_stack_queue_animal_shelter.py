@@ -1,5 +1,5 @@
 import pytest
-from stack_queue_animal_shelter.stack_queue_animal_shelter import AnimalShelter, Dog, Cat, EmptyStackException
+from Data_Structures_Challenges.stack_queue_animal_shelter.stack_queue_animal_shelter import AnimalShelter, Dog, Cat, EmptyStackException
 
 def test_enqueue_one_into_queue(animal_shelter):
     animal_shelter.enqueue(Cat())

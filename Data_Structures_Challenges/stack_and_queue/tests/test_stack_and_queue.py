@@ -1,5 +1,5 @@
 import pytest
-from stack_and_queue.stack_and_queue import Stack, Queue,EmptyStackException
+from Data_Structures_Challenges.stack_and_queue.stack_and_queue import Stack, Queue,EmptyStackException
 
 def test_push_one_onto_stack(stack):
     stack.push(5)

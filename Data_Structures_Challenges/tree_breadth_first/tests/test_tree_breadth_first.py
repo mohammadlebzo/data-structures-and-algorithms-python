@@ -1,5 +1,5 @@
 import pytest
-from tree_breadth_first.tree_breadth_first import BinaryTree, breadth_first, TreeNode
+from Data_Structures_Challenges.tree_breadth_first.tree_breadth_first import BinaryTree, breadth_first, TreeNode
 
 
 def test_breadth_first_traversal_for_an_empty_tree(b_tree):
