@@ -1,5 +1,5 @@
 import pytest
-from linked_list.linked_list import LinkedList
+from Data_Structures_Challenges.linked_list.linked_list import LinkedList
 
 def test_empty_linked_list():
     e_list = LinkedList()

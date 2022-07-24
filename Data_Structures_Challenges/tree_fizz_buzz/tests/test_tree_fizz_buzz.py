@@ -1,5 +1,5 @@
 import pytest
-from tree_fizz_buzz.tree_fizz_buzz import fizz_buzz_tree, KaryTree, TreeNode
+from Data_Structures_Challenges.tree_fizz_buzz.tree_fizz_buzz import fizz_buzz_tree, KaryTree, TreeNode
 
 
 def test_fizz_buzz_on_an_empty_kary_tree(k_tree):

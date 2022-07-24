@@ -1,5 +1,5 @@
 import pytest
-from linked_list_kth.linked_list_kth import LinkedList
+from Data_Structures_Challenges.linked_list_kth.linked_list_kth import LinkedList
 
 def test_k_greater_than_linked_list_length(l_list):
     with pytest.raises(IndexError):

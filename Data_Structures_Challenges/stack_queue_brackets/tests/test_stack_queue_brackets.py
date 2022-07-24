@@ -1,5 +1,5 @@
 import pytest
-from stack_queue_brackets.stack_queue_brackets import validate_brackets
+from Data_Structures_Challenges.stack_queue_brackets.stack_queue_brackets import validate_brackets
 
 @pytest.mark.parametrize(
     "test_string,expected",

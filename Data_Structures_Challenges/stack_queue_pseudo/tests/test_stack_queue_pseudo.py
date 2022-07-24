@@ -1,5 +1,5 @@
 import pytest
-from stack_queue_pseudo.stack_queue_pseudo import PseudoQueue, EmptyStackException
+from Data_Structures_Challenges.stack_queue_pseudo.stack_queue_pseudo import PseudoQueue, EmptyStackException
 
 def test_enqueue_one_item_to_queue(pseudo_queue):
     pseudo_queue.enqueue(5)

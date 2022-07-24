@@ -1,5 +1,5 @@
 import pytest
-from linked_list_insertions.linked_list_insertions import LinkedList
+from Data_Structures_Challenges.linked_list_insertions.linked_list_insertions import LinkedList
 
 def test_adding_new_node_to_linked_list_end(l_list):
     l_list.append(5)
