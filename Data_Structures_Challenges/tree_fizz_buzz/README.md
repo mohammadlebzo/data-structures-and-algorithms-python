@@ -12,7 +12,7 @@
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![White Board Pic](./img/tree_fizz_buzz.jpg)
+![White Board Pic](img/tree_fizz_buzz.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->

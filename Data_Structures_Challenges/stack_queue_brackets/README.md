@@ -8,7 +8,7 @@
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![white board pic](./img/stack_queue_brackets.jpg)
+![white board pic](img/stack_queue_brackets.jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
