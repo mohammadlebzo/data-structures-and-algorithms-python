@@ -21,4 +21,5 @@
 | Tree-Fizz-Buzz             | [link](Data_Structures_Challenges/tree_fizz_buzz/README.md)             |
 | Insertion-Sort             | [link](Sorting/insertion/README.md)                                     |
 | Merge-Sort                 | [link](Sorting/merge/README.md)                                         |
+| Quick-Sort                 | [link](Sorting/quick/README.md)                                         |
 
