@@ -1,4 +1,4 @@
-# Insertion Sort
+# Quick Sort
 
 Quick sort is in-place sorting algorithm, that places each element at its suitable place by using a pivot to compare 
 and sort, to the left or right of it.
