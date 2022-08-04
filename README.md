@@ -2,11 +2,18 @@
 
 ## Table of Contents
 
+### Arrays:
+
 | Challenge Name             | link                                                                    |
 |----------------------------|-------------------------------------------------------------------------|
 | Array-reverse              | [link](./array-reverse/README.md)                                       |
 | Array-insert-shift         | [link](./array-insert-shift/README.md)                                  |
 | Array-binary-search        | [link](./array-binary-search/README.md)                                 |
+
+### Data Structures:
+
+| Challenge Name             | link                                                                    |
+|----------------------------|-------------------------------------------------------------------------|
 | Linked-list                | [link](Data_Structures_Challenges/linked_list/README.md)                | 
 | Linked-list-insertions     | [link](Data_Structures_Challenges/linked_list_insertions/README.md)     | 
 | Linked-list-kth            | [link](Data_Structures_Challenges/linked_list_kth/README.md)            |
@@ -19,6 +26,12 @@
 | Tree-Max                   | [link](Data_Structures_Challenges/tree_max/README.md)                   |
 | Tree_Breadth_First         | [link](Data_Structures_Challenges/tree_breadth_first/README.md)         |
 | Tree-Fizz-Buzz             | [link](Data_Structures_Challenges/tree_fizz_buzz/README.md)             |
+| Hash-Table                 | [link](Data_Structures_Challenges/hashtable/README.md)                  |
+
+### Sorting Algorithms:
+
+| Challenge Name             | link                                                                    |
+|----------------------------|-------------------------------------------------------------------------|
 | Insertion-Sort             | [link](Sorting/insertion/README.md)                                     |
 | Merge-Sort                 | [link](Sorting/merge/README.md)                                         |
 | Quick-Sort                 | [link](Sorting/quick/README.md)                                         |
