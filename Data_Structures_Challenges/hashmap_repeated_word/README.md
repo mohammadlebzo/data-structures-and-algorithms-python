@@ -8,7 +8,7 @@
 
 ## Whiteboard Process
 <!-- Embedded whiteboard image -->
-![whiteboard pic](./img/hashmap_repeated_word.jpg)
+![whiteboard pic](./img/hashmap_repeated_word(1).jpg)
 
 ## Approach & Efficiency
 <!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
