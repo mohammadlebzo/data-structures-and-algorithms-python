@@ -27,6 +27,7 @@
 | Tree_Breadth_First         | [link](Data_Structures_Challenges/tree_breadth_first/README.md)         |
 | Tree-Fizz-Buzz             | [link](Data_Structures_Challenges/tree_fizz_buzz/README.md)             |
 | Hash-Table                 | [link](Data_Structures_Challenges/hashtable/README.md)                  |
+| Hashmap-Repeated-Word      | [link](Data_Structures_Challenges/hashmap_repeated_word/README.md)      |
 
 ### Sorting Algorithms:
 
