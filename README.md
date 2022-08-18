@@ -30,6 +30,7 @@
 | Hashmap-Repeated-Word      | [link](Data_Structures_Challenges/hashmap_repeated_word/README.md)      |
 | Tree-Intersection          | [link](Data_Structures_Challenges/tree_intersection/README.md)          |
 | Hashmap-Left-Join          | [link](Data_Structures_Challenges/hashmap_left_join/README.md)          |
+| Graph                      | [link](Data_Structures_Challenges/graph/README.md)                      |
 
 ### Sorting Algorithms:
 
