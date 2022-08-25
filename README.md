@@ -32,6 +32,7 @@
 | Hashmap-Left-Join          | [link](Data_Structures_Challenges/hashmap_left_join/README.md)          |
 | Graph                      | [link](Data_Structures_Challenges/graph/README.md)                      |
 | Graph-Breadth-First        | [link](Data_Structures_Challenges/graph_breadth_first/README.md)        |
+| Graph-Business_Trip        | [link](Data_Structures_Challenges/graph_business_trip/README.md)        |
 
 ### Sorting Algorithms:
 
