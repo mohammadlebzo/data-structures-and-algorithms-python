@@ -33,6 +33,7 @@
 | Graph                      | [link](Data_Structures_Challenges/graph/README.md)                      |
 | Graph-Breadth-First        | [link](Data_Structures_Challenges/graph_breadth_first/README.md)        |
 | Graph-Business_Trip        | [link](Data_Structures_Challenges/graph_business_trip/README.md)        |
+| Graph-Depth-First          | [link](Data_Structures_Challenges/graph_depth_first/README.md)          |
 
 ### Sorting Algorithms:
 
